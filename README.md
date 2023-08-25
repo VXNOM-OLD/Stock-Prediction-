@@ -1,2 +1,2 @@
 # Stock-Prediction-
- Take stock price of any company you want and predicts its price by using LSTM
+ Utilize LSTM in Jupyter to predict stock prices for chosen companies. Enhance forecasting precision in financial markets
